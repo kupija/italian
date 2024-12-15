@@ -52,41 +52,185 @@
 - what can i try?
   > cosa posso provare?
 
-- 
-  > 
+- Do you want to eat?
+  > Vuole mangiare?
 
-- 
-  > 
+- Do you want to eat here?
+  > Vuole mangiare qui?
 
-- 
-  > 
+- Are you about to pay?
+  > Sta per pagare?
 
-- 
-  > 
+- Do you want to pay the bill now?
+  > Vuole pagare il conto ora?
 
-- 
-  > 
+- What do you want?
+  > Cosa vuole?
 
-- 
-  > 
+- which / which one
+  > quale
 
-- 
-  > 
+- why / how much / how many
+  > perche / quanto / quanti
 
-- 
-  > 
+- how much time (how long)
+  > quanto tempo 
 
-- 
-  > 
+- who / whom
+  > chi
 
-- 
-  > 
+- waht do you want to do?
+  > cosa vuole fare?
 
-- 
-  > 
+- how do you want to pay the bill?
+  > come vuole pagare il conto?
 
-- 
-  > 
+- which one do you want?
+  > quale vuole?
+
+- why do you want to hire a car?
+  > perche vuole noleggiare una macchina?
+
+- how much do you want to eat?
+  > quanto vuole mangiare?
+
+- where can i hire a car?
+  > dove posso noleggiare una macchina?
+
+- when do you want to eat?
+  >  quando vuole mangiare?
+
+- what time can I go?
+  > a che ora posso andare?
+
+- which one / which ones
+  > quale / quali
+
+- what
+  > cosa / che / che cosa
+
+- what do you want?
+  > che cosa vuole? / che vuole?
+
+- how much / how many
+  > quanto - quanti / quanta - quante
+
+- how much do you want?
+  > quanto vuole?
+
+- how many do you want?
+  > quanti vuole?
+
+- how much wine do you want?
+  > quanto vino vuole?
+
+- how much pizza do you want?
+  > quanta pizza vuole?
+
+- how many chickens do you want?
+  > quanti polli vuole?
+
+- how many pizzas do you want?
+  > quante pizze vuole?
+
+- what do you want to take?
+  > cosa / che / che cosa vuole prendere?
+
+- what do you want to have?
+  > che cosa vuole avere?
+
+- what do you want to change?
+  > cosa vuole cambiare?
+
+- where do you want to eat?
+  > dove vuole mangiare?
+
+- where do you want to drink?
+  >  dove vuole bere?
+
+- when do you want to eat?
+  > quando vuole mangiare?
+
+- when do you want to order?
+  > quando vuole ordinare?
+
+- how do you want to pay?
+  > come vuole pagare?
+
+- why do you want to eat here?
+  > perche vuole mangiare qui?
+
+- why do you want to take the car?
+  > perche vuole prendere la macchina?
+
+- what time do you want to eat?
+  > a che ora vuole mangiare?
+
+- which one do you want to try?
+  > quale vuole provare?
+
+- which one do you want to have?
+  > quale vuole avere?
+
+- which ones do you want to try?
+  > quali vuole provare?
+
+- which ones do you want to have?
+  > quali vuole avere?
+
+- how much do you want to eat?
+  > quanto vuole mangiare?
+
+- how much do you want to drink?
+  > quanto vuole bere?
+
+- how many do you want to eat?
+  > quanti vuole mangiare?
+
+- how much pizza do you want to eat?
+  > quanta pizza vuole mangiare?
+
+- how much wine do you want to drink?
+  > quanto vino vuole bere?
+
+- what are you about to eat?
+  >  cosa sta per mangiare?
+
+- what are you about to drink?
+  > cosa sta per bere?
+
+- what are you about to order?
+  > cosa sta per ordinare?
+
+- what are you about to try?
+  > cosa sta per provare?
+
+- what are you about to do?
+  > cosa sta per fare?
+
+- what are you about to take?
+  > cosa sta per prendere?
+
+- what are you about to have?
+  > cosa sta per avere?
+
+- what are you going to change?
+  > cosa sta per cambiare?
+
+- where are you going to eat?
+  > dove sta per mangiare?
+
+- where are you going to drink?
+  > dove sta per bere?
+
+- why are you going to take the car?
+  > perche sta per prendere la macchina?
+
+- which ones are you going to have?
+  > quali sta per avere?
+
+- how much are you going to eat?
+  > quanto sta per mangiare?
 
 - 
   > 
@@ -219,6 +363,30 @@
 
 - 
   > 
+
+- 
+  > 
+
+- 
+  > 
+
+- 
+  > 
+
+- 
+  > 
+
+- 
+  > 
+
+- 
+  > 
+
+- 
+  > 
+
+- 
+  >
 
 - 
   > 
