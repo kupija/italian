@@ -400,119 +400,119 @@
 - you are going to be there soon
   > sta per essere la subito
 
-- 
-  > 
+- you must go now
+  > deve partire ora
 
-- 
-  > 
+- you have to leave tomorrow
+  > deve partire domani
 
-- 
-  > 
+- you can buy it tomorrow
+  > puo comprarlo domani
 
-- 
-  >  
+- you must say something
+  >  deve dire qualcosa
 
-- 
-  > 
+- you can gring it with you
+  > puo portarlo con Lei
 
-- 
-  > 
+- I want to eat something
+  > voglio mangiare qualcosa
 
-- 
-  > 
+- i don't want to spend too much money
+  > non voglio spendere troppi soldi
 
-- 
-  > 
+- i must find the hotel
+  > devo trovare l' albergo
 
-- 
-  > 
+- i'm going to change it now
+  > sto per cambiarlo ora
 
-- 
-  > 
+- I'm going to buy it
+  > sto per comprarlo
 
-- 
-  > 
+- I want to buy something here
+  > voglio comprare qualcosa qui
 
-- 
-  > 
+- you can buy it in Verona
+  > puo comprarlo a Verona
 
-- 
-  > 
+- you must drink something
+  > deve bere qualcosa
 
-- 
-  > 
+- I can bring it tomorrow
+  > posso portarlo domani
 
-- 
-  > 
+- you can buy something for Maria
+  > puo comprare qualcosa per Maria
 
-- 
-  > 
+- I can buy it today
+  > posso comprarlo oggi
 
-- 
-  > 
+- I can buy it later
+  > posso comprarlo piu tardi
 
-- 
-  > 
+- I can buy it tomorrow
+  > posso comoprarlo domani
 
-- 
-  > 
+- I want to see Milan tomorrow
+  > voglio vedere Milano domani
 
-- 
-  >  
+- You have to call Marco
+  >  deve chiamare Marco
 
-- 
-  > 
+- I'm going to call Sofia
+  > sto per chiamare Sofia
 
-- 
-  > 
+- I want to spend three week there
+  > voglio passare tre settimane la
 
-- 
-  > 
+- I am going to order the chicken for Paolo
+  > sto per ordinare il pollo per Paolo
 
-- 
-  > 
+- I must change the reservation
+  > devo cambiare la prenotazione
 
-- 
-  > 
+- I must go now
+  > devo andare ora
 
-- 
-  > 
+- you must eat something
+  > deve mangiare qualcosa
 
-- 
-  > 
+- you can buy something here
+  > puo comprare qualcosa qui
 
-- 
-  > 
+- i'm going to do it no
+  > sto per farlo ora
 
-- 
-  > 
+- you have to be in Rome tomorrow
+  > deve essere a Roma domani
 
-- 
-  > 
+- you have to start soon
+  > deve cominciare subito
 
-- 
-  > 
+- you can buy something at the hotel
+  > puo comprare qualcosa all'albergo
 
-- 
-  > 
+- you can bring it for Davide
+  > puo portarlo per Davide
 
-- 
-  > 
+- you much change it now
+  > deve cambiarlo ora
 
-- 
-  > 
+- I have to call Marco
+  > devo chiamare Marco
 
-- 
-  > 
+- I have to be in Naples tomorrow
+  > devo essere a Napoli domani
 
-- 
-  >  
+- you have to be there soon
+  >  deve essere la subito
 
-- 
-  > 
+- I want to buy it today
+  > voglio comprarlo oggi
 
-- 
-  > 
+- you can eat it here
+  > puo mangiare qui
 
 - 
   > 
