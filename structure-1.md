@@ -232,173 +232,173 @@
 - how much are you going to eat?
   > quanto sta per mangiare?
 
-- 
-  > 
+- how much are you going to drink?
+  > quanto sta per bere?
 
-- 
-  > 
+- how much wine are you going to drink?
+  > quanto vino sta per bere?
 
-- 
-  > 
+- what can I can eat?
+  > cosa posso mangiare?
 
-- 
-  >  
+- what can I drink?
+  >  cosa posso bere?
 
-- 
-  > 
+- what can I try?
+  > cosa posso provare?
 
-- 
-  > 
+- what can I order?
+  > cosa posso ordinare?
 
-- 
-  > 
+- what can I do?
+  > cosa posso fare?
 
-- 
-  > 
+- what can I take?
+  > cosa posso prendere?
 
-- 
-  > 
+- what can I have?
+  > cosa posso avere?
 
-- 
-  > 
+- what can I change?
+  > cosa posso cambiare?
 
-- 
-  > 
+- where can I eat?
+  > dove posso mangiare?
 
-- 
-  > 
+- where can I drink?
+  > dove posso bere?
 
-- 
-  > 
+- when can I eat?
+  > quando posso mangiare?
 
-- 
-  > 
+- when can I order?
+  > quando posso ordinare?
 
-- 
-  > 
+- what time can I eat?
+  > a che ora posso mangiare?
 
-- 
-  > 
+- which one can I try?
+  > quale posso provare?
 
-- 
-  > 
+- which one can I have?
+  > quale posso avere?
 
-- 
-  > 
+- how much can I eat?
+  > quanto posso mangiare?
 
-- 
-  > 
+- how much can I drink?
+  > quanto posso bere?
 
-- 
-  >  
+- how many can I eat?
+  >  quanti posso mangiare?
 
-- 
-  > 
+- how much pizza can I eat?
+  > quanta pizza posso mangiare?
 
-- 
-  > 
+- how much wine can I drink?
+  > quanto vino posso bere?
 
-- 
-  > 
+- do I have to / must I (you)
+  > devo / deve
 
-- 
-  > 
+- to buy / to start / to be
+  > comprare / cominciare / essere
 
-- 
-  > 
+- to leave / to go out / to bring
+  > partire / uscire / portare
 
-- 
-  > 
+- to spend money / to spend time
+  > spendere / passare
 
-- 
-  > 
+- to see / to call / to stay
+  > vedere / chiamare / restare
 
-- 
-  > 
+- to find / to say
+  > trovare / dire
 
-- 
-  > 
+- when do you want to leave?
+  > quando vuole partire?
 
-- 
-  > 
+- who are you going to see?
+  > chi sta per vedere?
 
-- 
-  > 
+- what can I bring?
+  > cosa posso portare?
 
-- 
-  > 
+- where do you want to stay tonight?
+  > dove vuole restare stasera?
 
-- 
-  > 
+- who can I call?
+  > chi posso chiamare?
 
-- 
-  > 
+- I can eat later
+  > posso mangiare piu tardi
 
-- 
-  > 
+- I can see Marco
+  > posso vedere Marcho
 
-- 
-  >  
+- I can go tomorrow
+  >  posso andare domani
 
-- 
-  > 
+- can you / you can
+  > puo
 
-- 
-  > 
+- I want / I am going to
+  > voglio / sto per
 
-- 
-  > 
+- you can buy something here for Marco
+  > puo comprare qualcosa qui per Marco
 
-- 
-  > 
+- you can buy it later
+  > puo comprarlo piu tardi
 
-- 
-  > 
+- I can see it
+  > posso vederlo
 
-- 
-  > 
+- I can buy something here
+  > posso comprare qualcosa qui
 
-- 
-  > 
+- you can buy something in the supermarket
+  > puo comprare qualcosa al supermercato
 
-- 
-  > 
+- I can buy some cheese
+  > posso comprare del formaggio
 
-- 
-  > 
+- I can buy something for my mum here
+  > posso comprare qualcosa per mia madre qui
 
-- 
-  > 
+- you must be tired
+  > deve essere stanco
 
-- 
-  > 
+- I have to be there soon
+  > devo essere la subito
 
-- 
-  > 
+- you can bring it for Giovanni
+  > puo portarlo per Giovanni
 
-- 
-  > 
+- you can buy it later
+  > puo comprarlo piu tardi
 
-- 
-  > 
+- I must say something
+  > devo dire qualcosa
 
-- 
-  > 
+- I can bring it for Paolo
+  > posso portarlo per Paolo
 
-- 
-  >
+- I have to start soon
+  > devo cominciare subito
 
-- 
-  > 
+- you can eat something at the restaurant
+  > puo mangiare qualcosa al ristorante
 
-- 
-  > 
+- I have to leave tomorrow
+  > devo partire domani
 
-- 
-  > 
+- you can buy something in Rome
+  > puo comprare qualcosa a Roma
 
-- 
-  > 
+- you are going to be there soon
+  > sta per essere la subito
 
 - 
   > 
