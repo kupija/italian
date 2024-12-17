@@ -579,3 +579,40 @@
 
 - Can I eat at the hotel tonight?
   > posso mangiare all' albergo stasera?
+
+- can you call Maria at quarter past four?
+  > puo chiamare Maria alle quattro e quarto?
+
+- can I pay the bill?
+  > posso pagare il conto?
+
+- where can I find it?
+  > dove posso trovarlo?
+
+- what time do you want to start?
+  > a che ora vuole cominciare?
+
+- which ones do you want to try?
+  > quali vuole provare?
+
+- Can I go out later?
+  > posso uscire piu tardi?
+
+----
+- do you want to see it?
+  > vuole vederlo?
+
+- which one do you want to hire?
+  > qualle vuole noleggiare?
+
+- who do you want to see in Rome?
+  > chi vuole vedere a Roma?
+
+- who do you have to see in Milan?
+  > chi deve vedere a Milano?
+
+- how are you goint to see in verona?
+  > chi sta per vedere a Verona?
+
+- Can I go out later?
+  > posso uscire piu tardi?
