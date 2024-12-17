@@ -512,46 +512,70 @@
   > voglio comprarlo oggi
 
 - you can eat it here
-  > puo mangiare qui
+  > puo mangiarlo qui
 
-- 
-  > 
+- do you want? / don't you want?
+  > vuole? non vuole?
 
-- 
-  > 
+- non puo / non vuole
+  > can't you / dont' you want
 
-- 
-  > 
+- aren't you about to
+  > non sta per
 
-- 
-  > 
+- why can't i go with you?
+  > perche non posso andare con Lei?
 
-- 
-  > 
+- what can't you bring?
+  > cosa non puo portare?
 
-- 
-  > 
+- don't you want to buy something for Maria?
+  > non vuole comprare qualcosa per Maria?
 
-- 
-  > 
+- whom can't I call?
+  > chi non posso chiamare?
 
-- 
-  > 
+- why can't you do it later?
+  > perche non puo farlo piu tardi?
 
-- 
-  > 
+- I can't do it today
+  > non posso farlo oggi
 
-- 
-  > 
+- you can't eat the chocolate
+  > non puo mangiare la chocolata
 
-- 
-  > 
+- I must not spend too much money
+  > non devo spendere troppi soldi
 
-- 
-  > 
+- you must not call Paolo
+  > non deve chiamare Paolo
 
-- 
-  > 
+- I don't want to eat here
+  > non voglio mangiare qui
 
-- 
-  >  
+- I don't want to hire it; I want to buy it
+  > non voglio noleggiarlo; voglio comprarlo
+
+- a ticket
+  > un biglietto
+  
+- what do you want to bring?
+  > cosa vuole portare?
+
+- what can you eat?
+  > cosa puo mangiare
+
+- you are going to spend too much money
+  > sta per spendere troppi soldi
+
+- what can you see?
+  > cosa puo vedere?
+
+- when can I go out?
+  > quando posso uscire?
+
+- I can bring some wine for Paolo tomorrow
+  > posso portare del vino per Paolo domani
+
+- Can I eat at the hotel tonight?
+  > posso mangiare all' albergo stasera?
