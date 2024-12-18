@@ -161,50 +161,50 @@
 - is he spending money?
   > spende lui?
 
-- 
-  > 
+- what is he doing?
+  > cosa fa (lui)?
 
-- 
-  > 
+- how are you paying the bill?
+  > come pagi il conto?
 
-- 
-  > 
+- which one is she buying?
+  > qualle compra lei?
 
-- 
-  > 
+- why are we hiring a car?
+  > perche noleggiamo una macchina?
 
-- 
-  > 
+- how much are you eating?
+  > quanto mangi?
 
-- 
-  > 
+- where are you hiring a car?
+  > dove noleggi una macchina?
 
-- 
-  > 
+- when are they eating?
+  > quando mangiano?
 
-- 
-  > 
+- what time are you going?
+  > a che ora vai? / andate?
 
-- 
-  > 
+- where are you going?
+  > dove vai?
 
-- 
-  > 
+- when do you leave?
+  > quando parti?
 
-- 
-  > 
+- when are they coming?
+  > quando vengono?
 
-- 
-  > 
+- where are you eating?
+  > dove mangi?
 
-- 
-  >  
+- when does he finish?
+  > quando finisce _(lui)_?
 
-- 
-  > 
+- when do we arrive? / when are we arriving? _(arrivare)_
+  > quando arriviamo?
 
-- 
-  > 
+- why do you say that? / why are you saying that?
+  > perche dici **quello**?
 
 - 
   > 
