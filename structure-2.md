@@ -14,27 +14,27 @@
   > vendere / partire
 
 - drink _(bere)_
-  > bevo / bevi / beve
+  > bevo / bevi / beve /
   > beviamo / bevete / bevono
 
 - to go
-  > vado / vai / va
+  > vado / vai / va /
   > andiamo / andate / vanno
 
 - to take _(prendere)_
-  > prendo / prendi / prende
+  > prendo / prendi / prende /
   > prendiamo / prendete / prendono
 
 - to have _(avere)_
-  > ho / hai / ha
+  > ho / hai / ha /
   > abbiamo / avete / hanno
 
 - to change _(cambiare)_
-  > cambio / cambi / camba
+  > cambio / cambi / camba /
   > cambiamo / cambiate / cambiano
 
 - to buy _(comprare)_
-  > compro / compri / compra
+  > compro / compri / compra /
   > compriamo / comprate / comprano
 
 - to start _(cominciare)_
@@ -42,19 +42,19 @@
   > cominciamo / cominciate / cominciano
 
 - to be _(essere)_
-  > sono / sei / e
+  > sono / sei / e /
   > siamo / siete / sono
 
 - to leave _(partire)_
-  > parto / parti / parte
+  > parto / parti / parte /
   > partiamo / partite / partono
 
 - to go out or leave _(uscire)_
-  > esco / esci / esce
+  > esco / esci / esce /
   > usciamo / uscite / escono
 
-- 
-  >  
+- to spend time _(passare)_
+  >  passo / passi / passa / passiamo / passate / passano
 
 - 
   > 
