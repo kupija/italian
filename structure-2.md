@@ -89,77 +89,77 @@
 - what are they trying?
   > cosa provano?
 
-- 
-  > 
+- what are you doing tonight?
+  > cosa fai stasera?
 
-- 
-  > 
+- where are you eating tomorrow?
+  > dove mangi domani?
 
-- 
-  > 
+- where are you going now?
+  > dove vai ora?
 
-- 
-  > 
+- what are you doing now?
+  > che cosa fai ora?
 
-- 
-  >  
+- what are you buying for Paolo?
+  >  che cosa compri per Paolo?
 
-- 
-  > 
+- what time are we eating later?
+  > a che ora mangiamo piu tardi?
 
-- 
-  > 
+- are you eating?
+  > mangi?
 
-- 
-  > 
+- are they eating here?
+  > mangano qui?
 
-- 
-  > 
+- are you paying the bill?
+  > paghi il conto?
 
-- 
-  > 
+- are you buying some cheese?
+  > compri  formaggio?
 
-- 
-  > 
+- are you going now?
+  > vai ora?
 
-- 
-  > 
+- am I paying the bill?
+  > pago il conto?
 
-- 
-  > 
+- what is he/she doing?
+  > che fa?
 
-- 
-  > 
+- what is **he** eating?
+  > che mangia lui?
 
-- 
-  > 
+- where is he going? where is she going?
+  > dove va lui? / dove va lei?
 
-- 
-  > 
+- why is he leaving?
+  > perche parte lui?
 
-- 
-  > 
+- is **he**/**she** buying some cheese?
+  > compra formaggio lui/lei?
 
-- 
-  > 
+- is he/she going now?
+  > va ora lui/lei?
 
-- 
-  > 
+- is he paying the bill?
+  > paga il conto lui?
 
-- 
-  > 
+- does she have?
+  > ha (lei)?
 
-- 
-  >  
+- are we changing?
+  > cambiamo?
 
-- 
-  > 
+- am I buying?
+  > compro?
 
-- 
-  > 
+- are you starting?
+  > cominci?
 
-- 
-  > 
+- is he spending money?
+  > spende lui?
 
 - 
   > 
