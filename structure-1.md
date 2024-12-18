@@ -598,7 +598,6 @@
 - Can I go out later?
   > posso uscire piu tardi?
 
-----
 - do you want to see it?
   > vuole vederlo?
 
