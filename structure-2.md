@@ -56,38 +56,38 @@
 - to spend time _(passare)_
   >  passo / passi / passa / passiamo / passate / passano
 
-- 
-  > 
+- to see
+  > vedo / vedi / vede / vediamo / vedete / vedono
 
-- 
-  > 
+- to find _(trovare)_
+  > trovo / trovi / trova / troviamo / trovate / trovano
 
-- 
-  > 
+- to say _(dire)_
+  > dico / dici / dice / diciamo / dite / dicono
 
-- 
-  > 
+- where are we going?
+  > dove andiamo?
 
-- 
-  > 
+- how are you paying
+  > come pagi? page / pagate
 
-- 
-  > 
+- when are we going out?
+  > quando usciamo?
 
-- 
-  > 
+- what are you trying?
+  > cosa provi? che provi? che cosa provi?
 
-- 
-  > 
+- what is he eating?
+  > che mangia?
 
-- 
-  > 
+- what are you doing?
+  > che fai?
 
-- 
-  > 
+- how is he paying?
+  > come paga?
 
-- 
-  > 
+- what are they trying?
+  > cosa provano?
 
 - 
   > 
