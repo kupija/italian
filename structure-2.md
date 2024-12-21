@@ -240,59 +240,59 @@
 - how many pizzas are you ordering? / do you order usually?
   > quante pizze ordini, di solito?
 
-- 
-  > 
+- how much wine does he drink? / is he drinking?
+  > quanto vino beve (lui)?
 
-- 
-  > 
+- what are they making/doing? what do they make?
+  > che fanno?
 
-- 
-  > 
+- are you trying the wine? do you try the wine?
+  > provi il vino?
 
-- 
-  >  
+- are you making a reservation usually?
+  >  fai una prenotazione, di solito?
 
-- 
-  > 
+- what are you having? what do you have?
+  > che hai?
 
-- 
-  > 
+- where are they eating tomorrow?
+  > dove mangano domani?
 
-- 
-  > 
+- are you eating with me today?
+  > mangi con me oggi?
 
-- 
-  > 
+- when is he calling?
+  > quando chiami (lui)?
 
-- 
-  > 
+- what are you ordering for us?
+  > cosa ordini per noi?
 
-- 
-  > 
+- is she ordering for me, as well?
+  > ordina (lei) per me anche?
 
-- 
-  > 
+- why are you here?
+  > perche sei qui?
 
-- 
-  > 
+- why are they here?
+  > perche sono qui?
 
-- 
-  > 
+- what are you doing here?
+  > che fai qui?
 
-- 
-  > 
+- which one is she buying?
+  > qualle compra (lei)?
 
-- 
-  > 
+- which ones do you have?
+  > qualli hai?
 
-- 
-  > 
+- are you being stupid?
+  > sei stupido?
 
-- 
-  > 
+- are we leaving soon?
+  > partiamo subito?
 
-- 
-  > 
+- are you drinking the wine?
+  > bevi il vino?
 
 - 
   > 
