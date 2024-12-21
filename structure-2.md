@@ -294,56 +294,56 @@
 - are you drinking the wine?
   > bevi il vino?
 
-- 
-  > 
+- how are you going to Italy?
+  > come vai in Italia?
 
-- 
-  >  
+- when are they going out?
+  >  quando escono?
 
-- 
-  > 
+- are you going out later?
+  > esci piu tardi?
 
-- 
-  > 
+- is he leaving today?
+  > parte oggi (lui)?
 
-- 
-  > 
+- is he here?
+  > e qui (lui)?
 
-- 
-  > 
+- are we speaking with Maria?
+  > parliamo con Maria?
 
-- 
-  > 
+- who are you calling?
+  > chi chiami?
 
-- 
-  > 
+- what are you taking with you tomorrow?
+  > che prendi con te domani?
 
-- 
-  > 
+- what are they changing?
+  > che cambiano?
 
-- 
-  > 
+- why are they changing the reservation?
+  > perche cambiano la prenotazione?
 
-- 
-  > 
+- where are we staying tonight?
+  > dove restiamo stasera?
 
-- 
-  > 
+- are you staying here?
+  > resti qui?
 
-- 
-  > 
+- does he stay here very often?
+  > resta qui molto spesso (lui)? 
 
-- 
-  > 
+- what time are you eating?
+  > a che ora mangi?
 
-- 
-  > 
+- which one are you taking?
+  > quale prendi?
 
-- 
-  > 
+- why are you going with them? / why do you go with them?
+  > perche vai con loro?
 
-- 
-  > 
+- why are they going to Milan?
+  > perche vanno a Milano?
 
 - 
   >  
