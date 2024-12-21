@@ -54,16 +54,20 @@
   > usciamo / uscite / escono
 
 - to spend time _(passare)_
-  >  passo / passi / passa / passiamo / passate / passano
+  >  passo / passi / passa /
+  > passiamo / passate / passano
 
 - to see
-  > vedo / vedi / vede / vediamo / vedete / vedono
+  > vedo / vedi / vede /
+  > vediamo / vedete / vedono
 
 - to find _(trovare)_
-  > trovo / trovi / trova / troviamo / trovate / trovano
+  > trovo / trovi / trova /
+  > troviamo / trovate / trovano
 
 - to say _(dire)_
-  > dico / dici / dice / diciamo / dite / dicono
+  > dico / dici / dice /
+  > diciamo / dite / dicono
 
 - where are we going?
   > dove andiamo?
@@ -206,35 +210,35 @@
 - why do you say that? / why are you saying that?
   > perche dici **quello**?
 
-- 
-  > 
+- what do they do?
+  > cosa fanno?
 
-- 
-  > 
+- what do they drink / are they drinking?
+  > che bevono?
 
-- 
-  > 
+- what are you eating? / what do you eat?
+  > cosa mangi?
 
-- 
-  > 
+- where is he going?
+  > dove va (lui)?
 
-- 
-  > 
+- what are they saying?
+  > che dicono?
 
-- 
-  > 
+- what do they say here?
+  > cosa dicono qui?
 
-- 
-  > 
+- does he speak English? / is he speaking English
+  > parla inglese (lui)?
 
-- 
-  > 
+- Does she arrive tomorrow? / is she arriving tomorrow?
+  > arriva domani (lei)?
 
-- 
-  > 
+- what time do they leave tonight?
+  > a che ora partono stasera?
 
-- 
-  > 
+- how many pizzas are you ordering? / do you order usually?
+  > quante pizze ordini, di solito?
 
 - 
   > 
