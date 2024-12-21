@@ -345,53 +345,465 @@
 - why are they going to Milan?
   > perche vanno a Milano?
 
+- why are you taking that?
+  >  perche prendi quello?
+
+- why do you take that?
+  > perche prendi
+
+- who is he telling?
+  > chi dice (lui)?
+
+- what are they bringing?
+  > che portano?
+
+- where is she going tonight?
+  > dove va stasera?
+
+- why are you going now?
+  > perche vai ora?
+
+- they are eating the chicken
+  > mangiano il pollo
+
+- are they drinking? they are drinking
+  > bevono? bevono.
+
+- they are speaking with Paolo
+  > parlano con Paolo
+
+- I eat / I'm eating
+  > mangio
+
+- he eats / he's eating
+  > lui mangia
+
+- she is buying something here for paolo
+  > (lei) compra qualcosa qui per Paolo
+
+- they 're buying the wine later.
+  > comprano il vino piu tardi
+
+- I see Maria
+  > vedo Maria
+
+- I'm buying something here
+  > compro qualcosa qui
+
+- we 're buying something at the supermarket
+  > compriamo qualcosa al supermercato
+  
+- I'm buying some cheese
+  > compro del formaggio
+  
+- I'm buying something for my mum here
+  > compro qualcosa qui per mia madre
+
+- He's very tired
+  > lui e molto stanco
+  
+- I'm there tomorrow
+  > Sono la domani
+
+- He's bringing everything for Paolo
+  > Porta tutto per Paolo
+  
+- I'm bringing some food tomorrow
+  > Porto del cibo domani
+
+- I'm saying something
+  > Dico qualcosa
+
+- They 're bringing some wine for Gio
+  > portano del vino per Gio
+
+- She's starting soon
+  > lei cominca subito
+
+- we 're eating at the restaurant
+  > mangiamo al ristorante
+
+- you 're leaving tomorrow
+  > parti domani
+
+- he's buying something in Rome
+  > compra qualcosa a Roma
+
+- you are going to italy soon
+  > vai in Italia subito
+
+- they are leaving tonight
+  > partono stasera
+
+- they are eating at mine tomorrow
+  > mangiano da me domani
+
 - 
-  >  
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
 
 - 
   > 
 
 - 
-  > 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
 
 - 
   > 
 
 - 
-  > 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
+
+- 
+  >
 
 - 
   > 
 
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  > 
-
-- 
-  >  
