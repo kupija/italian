@@ -516,89 +516,89 @@
 - i'm doing everything later
   > faccio tutto piu tardi
 
-- 
-  > 
+- you are in Verona tomorrow
+  > sei a Verona domani
 
-- 
-  >
+- they are starting soon
+  > cominciano subito
 
-- 
-  > 
+- you are going to the hotel
+  > vai all'albergo
 
-- 
-  > 
+- she's changing everything
+  > cambia tutto
 
-- 
-  > 
+- they are calling Maria
+  > chiamano Maria
 
-- 
-  >
+- I'm in Bergamo tomorrow
+  > sono a Bergamo domani
 
-- 
-  >
+- she's here today
+  > lei e qui oggi
 
-- 
-  >
+- we are drinking the wine
+  > beviamo il vino
 
-- 
-  > 
+- what are you bringing?
+  > che porti?
 
-- 
-  >
+- what do you see?
+  > che vedi?
 
-- 
-  >
+- when are they going out?
+  > quando escono?
 
-- 
-  >
+- I'm brining some wine for Paolo tomorrow
+  > porto del vino per Paolo domani
 
-- 
-  >
+- are we eating at the hotel tonight?
+  > mangiamo all' albergo stasera?
 
-- 
-  >
+- are you calling Maria at quarter past four?
+  > chiami Maria alle quattro e quarto?
 
-- 
-  >
+- is she paying the bill?
+  > paga il conto lei?
 
-- 
-  >
+- how are you finding the film?
+  > chome trovi il film?
 
-- 
-  >
+- what time are you starting?
+  > a che ora cominci?
 
-- 
-  >
+- which ones are they trying?
+  > quali provano?
 
-- 
-  >
+- what are you doing tomorrow?
+  > cosa fai domani?
 
-- 
-  >
+- he's buying the food later
+  > compra il cibo piu tardi
 
-- 
-  >
+- I'm going out later
+  > esco piu tardi
 
-- 
-  >
+- are you going out later?
+  > esci piu tardi?
 
-- 
-  >
+- do you see the restaurant?
+  > vedi il ristorante?
 
-- 
-  >
+- are you trying the wine?
+  > provi il vino?
 
-- 
-  >
+- which car are you hiring?
+  > qualle mucchina noleggi?
 
-- 
-  >
+- how are you seeing in Roma
+  > chi vedi a Roma
 
-- 
-  >
+- who are you seeing in Milan
+  > chi vedi a Milano?
 
-- 
-  >
+- who are you calling in Italy
+  > chi chiami in Italia?
 
 - 
   >
