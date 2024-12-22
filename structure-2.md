@@ -600,210 +600,56 @@
 - who are you calling in Italy
   > chi chiami in Italia?
 
-- 
-  >
+- why don't you try the wine?
+  > perche non trovi il vino?
 
-- 
-  >
+- isn't he making a reservation?
+  > non fa una prenotazione?
 
-- 
-  >
+- aren't they buying something for Maria?
+  > non comprano qualcosa per Maria?
 
-- 
-  >
+- why don't we call Luca?
+  > perche non chiamiamo Luca?
 
-- 
-  >
+- why aren't you doing it now?
+  > perche non lo fai ora?
 
-- 
-  >
+- are you eating it?
+  > lo mangi?
 
-- 
-  >
+- are you drinking it? / aren't you drinking it?
+  > lo bevi? / non lo bevi?
 
-- 
-  >
+- he's going / he isn't going
+  > lui va / lui non va
 
-- 
-  >
+- they aren't trying
+  > non provano
 
-- 
-  >
+- you aren't leaving
+  > non parti
 
-- 
-  >
+- they aren't going out
+  > non escono
 
-- 
-  >
+- he doesn't speak English
+  > lui non parla inglese
 
-- 
-  >
+- I'm not doing that today
+  > non faccio quello oggi
 
-- 
-  >
+- he's not eating the chocolate
+  > non mangia la chioccolata
 
-- 
-  >
+- they are not spending too much money
+  > non spendono troppi soldi
 
-- 
-  >
+- she's not calling Paolo
+  > non chiama Paolo
 
-- 
-  >
+- you are not leaving until later
+  > non parti fino a piu tardi
 
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  > 
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  > 
-
+- I'm not hiring it; I'm buying it
+  > non lo noleggio. lo compro
