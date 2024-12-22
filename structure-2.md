@@ -438,98 +438,98 @@
 - they are eating at mine tomorrow
   > mangiano da me domani
 
+- I'm seeing Michele later
+  > Vedo Michele piu tardi
+
+- you are eating something
+  > mangi qualcosa
+
+- we are bringing everything with us tomorrow
+  > portiamo tutto con noi domani
+
+- I'm doing something
+  > faccio qualcosa
+
+- you are spending too much money
+  > spendi troppi soldi
+
+- I find the hotel terrible
+  > provo l' albergo terribile
+
+- I'm changing the reservation now
+  > cambio la prenotazione ora
+
+- you are buying too much
+  > compri troppo
+
+- I'm buying something here
+  > compro qualcosa qui
+
+- we are going to Milan
+  > andiamo a Milano
+
+- he's drinking something
+  > beve qualcosa
+
+- I'm brining Paolo tomorrow
+  > porto Paolo domani
+
+- I'm buying something for Maria
+  > compro qualcosa per Maria
+
+- we are speaking
+  > parliamo
+
+- we are starting now
+  > cominciamo ora
+
+- I'm ordering a bottle of water for the table
+  > ordino una bottiglia d'acqua per il tavolo
+
+- I'm ordering for you
+  > ordino per te
+
+- She's calling Michele
+  > lei chiama Michele
+
+- I'm calling Michele tomorrow
+  > chiamo Michele domani
+
+- I'm spending three weeks there
+  > passo tre settimane la
+
+- I'm ordering the chicken for Paolo
+  > ordino il pollo per Paolo
+
+- I'm changing the reservation
+  > cambio la prenotazione
+
+- I'm going now
+  > vado ora
+
+- He's eating something
+  > mangia qualcosa
+
+- we are eating here today
+  > mangiamo qui oggi
+
+- i'm doing everything later
+  > faccio tutto piu tardi
+
 - 
-  >
+  > 
 
 - 
   >
 
 - 
-  >
+  > 
 
 - 
-  >
+  > 
 
 - 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
-
-- 
-  >
+  > 
 
 - 
   >
