@@ -82,41 +82,41 @@
 - what could you do?
   > cosa poteva fare?
 
-- 
-  > 
+- which one did you want to buy?
+  > qualle voleva comprare?
 
-- 
-  > 
+- why did you have to go?
+  > perche doveva andare?
 
-- 
-  > 
+- how much did you want to spend?
+  > quanto voleva spendere?
 
-- 
-  >  
+- where could you go?
+  >  dove poteva andare?
 
-- 
-  > 
+- where  were you going to go?
+  > dove stava per andare?
 
-- 
-  > 
+- who did you have to call?
+  > chi doveva chiamare?
 
-- 
-  > 
+- what did you have to take?
+  > cosa doveva prendere?
 
-- 
-  > 
+- where did you want to eat?
+  > dove voleva mangiare?
 
-- 
-  > 
+- who were you going to call?
+  > chi stava per chiamare?
 
-- 
-  > 
+- where did you want to stay?
+  > dove voleva restare?
 
-- 
-  > 
+- where could you stay?
+  > dove poteva restare?
 
-- 
-  > 
+- what did you want to say?
+  > cosa voleva dire?
 
 - 
   > 
