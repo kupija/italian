@@ -118,20 +118,20 @@
 - what did you want to say?
   > cosa voleva dire?
 
-- 
+- did you want to eat?
+  > voleva mangiare?
+
+- did you want to eat here?
   > 
 
-- 
-  > 
+- did you have to pay the bill for me?
+  > doveva pagare il conto per me?
 
-- 
-  > 
+- what did you want?
+  > cosa voleva?
 
-- 
-  > 
-
-- 
-  > 
+- what were you going to write?
+  > cosa stava per scrivere?
 
 - 
   > 
